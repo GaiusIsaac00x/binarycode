@@ -1,0 +1,303 @@
+.navbg{
+    background-color: black;
+}
+._0navln{
+    color: white !important;
+}
+._0launch{
+    background-color: #92D940;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 8px;
+}
+.fntfam{
+    font-style: normal;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+._0div1{
+    background: #92D940;
+    border-radius: 10px;
+    width: 60%;
+    /* height: 54px; */
+}
+._0div1 h5{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+}
+._0div1 p{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+}
+._0shine{
+    background: rgba(255, 255, 255, 0.01);
+opacity: 0.8;
+box-shadow: inset 0px 39px 56px -36px rgba(255, 255, 255, 0.5), inset 0px 7px 11px -4px #FFFFFF, inset 0px -82px 68px -64px rgba(243, 242, 242, 0.3), inset 0px 98px 100px -48px rgba(141, 141, 141, 0.3), inset 0px 4px 18px rgba(154, 146, 210, 0.3), inset 0px 1px 0px rgba(227, 222, 255, 0.2);
+backdrop-filter: blur(7.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 51px;
+}
+._0cus{
+    height: 295px;
+}
+
+.media{
+    display: flex-wrap;
+}
+._0stake{
+    border-right-style: solid;
+    border-left-style: solid;
+    border-width: 2px;
+}
+._0sake{
+    background-color: #92D940;
+    border-radius: 51px;
+}
+._0sake2{
+    border-radius: 51px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+._0tot{
+    font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+
+
+color: #92D940;
+}
+._0tot2{
+line-height: 12px;
+/* identical to box height, or 188% */
+color: #92D940;
+}
+._0spec{
+    font-weight: 700;
+font-size: 48px;
+/* identical to box height, or 62% */
+text-align: center;
+
+color: #92D940;
+}
+._0coun{
+    font-family: 'Days One';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height:30px;
+text-align: center;
+
+color: #FFFFFF;
+}
+._0coun2{
+    font-family: 'Days One';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height:30px;
+text-align: center;
+
+color: #FFFFFF;
+}
+._0beeb{
+    font-weight: 400;
+font-size: 32px;
+line-height: 30px;
+/* identical to box height, or 94% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+._0beeb2{
+    font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 94% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+._0pad{
+    padding-top: 9%;
+}
+._0ase{
+    font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+}
+._0ase2{
+    font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+}
+._0unst{
+    text-decoration: none;
+    background: #FFFFFF;
+    opacity: 0.8;
+    border-radius: 51px;
+    font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 200% */
+
+text-align: center;
+
+color: #060606;
+}
+._0en{
+    font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+._0en2{
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+._0en3{
+    font-weight: 400;
+font-size: 24px;
+line-height: 20px;
+/* identical to box height, or 83% */
+
+text-align: center;
+
+color: #92D940;
+}
+._0tot6x{
+
+}
+
+@media screen and (max-width: 768px) {
+    /* ._0pad{
+        padding-top: 0%;
+    } */
+    ._0cus{
+        height: 255px;
+    }
+    ._0cus li{
+        font-size:12px;
+    }
+    ._0cus p{
+        font-size:12px;
+    }
+   ._0col{
+       font-size:13px;
+       text-align: justify;
+   }
+   ._0div1 h5{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+}
+   ._0div1 p{
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 20px;
+}
+._0coun{
+    font-family: 'Days One';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height:30px;
+text-align: center;
+
+color: #FFFFFF;
+}
+._0coun2{
+    font-family: 'Days One';
+font-style: normal;
+font-weight: 900;
+font-size: 25px;
+line-height:15px;
+text-align: center;
+
+color: #FFFFFF;
+}
+._0beeb{
+    font-weight: 400;
+font-size: 16px;
+line-height: 15px;
+/* identical to box height, or 94% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+._0tabmarg{
+    margin: 0px 10px 0px 10px !important;
+}
+  }
+  @media screen and (max-width: 992px) {
+    ._0en2{
+        font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    /* identical to box height, or 133% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    ._0pad{
+        padding-top: 14%;
+    }
+    ._0tabmarg{
+        margin: 0px 130px 0px 130px !important;
+    }
+    ._0tabmarg2{
+        margin: 0px 100px 0px 100px !important;
+    }
+    ._0coun{
+        font-family: 'Days One';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height:30px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    ._0ase{
+        font-weight: 400;
+    font-size: 12px;
+    line-height: 25px;
+    }
+    ._0unst{
+        text-decoration: none;
+        background: #FFFFFF;
+        opacity: 0.8;
+        border-radius: 51px;
+        font-weight: 400;
+    font-size: 11px;
+    line-height: 30px;
+    /* identical to box height, or 200% */
+    
+    text-align: center;
+    
+    color: #060606;
+    }
+    
+}
